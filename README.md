@@ -5,7 +5,7 @@ Python package for statistical distributions
 
 `pip install distribo`
 
-# How to use (Examples)
+# How to use
 
 ### Example 1
 ```
